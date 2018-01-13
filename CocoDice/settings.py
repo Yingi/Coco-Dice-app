@@ -25,7 +25,7 @@ SECRET_KEY = 'vufmv%bfa#nc%f3vd4e2)h6wgi=r0rs%o+zudj&td(gqh3ypej'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yingikeme.pythonanywhere.com']
 
 
 # Application definition
